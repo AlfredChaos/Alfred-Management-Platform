@@ -1,1 +1,0 @@
-amp-ui is the frontend of Alfred Management Platform, developed using vue and element-ui
